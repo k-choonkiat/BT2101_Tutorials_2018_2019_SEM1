@@ -1,5 +1,5 @@
 # BT2101_Tutorials_2018_2019_SEM1
-## 1. Introduction to Numpy, Pandas and Decision Tree
+## 1. Decision Tree and Pruning
 ## 2. Multiple Linear Regression and Logistic Regression
 ## 3. Ensemble Learning
 ## 4. Clustering
