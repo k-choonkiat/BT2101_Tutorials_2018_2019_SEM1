@@ -4,3 +4,6 @@
 ## 3. Ensemble Learning
 ## 4. Clustering
 ## 5. Deep Learning with Tensorflow and Keras
+## 6. Time Series Analysis
+## 7. Convolutional Neural Networks
+## 8. Practice Exam
