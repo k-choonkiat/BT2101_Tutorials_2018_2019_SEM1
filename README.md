@@ -11,4 +11,5 @@
 ## 6. Time Series Analysis
 ## 7. Convolutional Neural Networks
 ## 8. Practice Exam
-## Optional: Text Mining: Topic Modelling
+## Optional: Text Mining and Topic Modelling
+## Optional: Naive Bayes and Support Vector Machine
