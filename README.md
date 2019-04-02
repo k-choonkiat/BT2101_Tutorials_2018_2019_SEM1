@@ -11,3 +11,4 @@
 ## 6. Time Series Analysis
 ## 7. Convolutional Neural Networks
 ## 8. Practice Exam
+## Optional: Text Mining: Topic Modelling
